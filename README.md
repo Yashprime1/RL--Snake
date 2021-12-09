@@ -30,5 +30,6 @@ This project includes 3 different variations of the traditional snake game which
        '-.  `'--._          `.__     `';----`              \
           `-.     `-.          `."'```                     ;
              `'-..,_ `-.         `'-.                     /
-        jgs         '.  '.           '.                 .'
+                   '.  '.           '.                 .'
 
+## For details , check out this PPT :
