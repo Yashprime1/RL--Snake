@@ -32,4 +32,4 @@ This project includes 3 different variations of the traditional snake game which
              `'-..,_ `-.         `'-.                     /
                    '.  '.           '.                 .'
 
-## For details , check out this PPT :
+## For details , check out this PPT : [PPT](https://docs.google.com/presentation/d/1J2ysS24E8QiILxwCBiTpsvuG9BlHynxzVi-LOZNlNqk/edit?usp=sharing)
