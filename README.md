@@ -36,6 +36,18 @@ This project includes 3 different variations of the traditional snake game which
 
 ## Output Screenshots
 
+### Game snapshots 
+
 ![Snake Game](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/snapshot_main.jpeg?raw=true "Snake Game")
 ![2 Snake Game](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/snapshot_2snake.jpeg?raw=true "2 Snake Game")
 ![Snake mongoose Game](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/snapshot_snakemongoose.jpeg?raw=true "Snake Mongoose")
+
+### Q-Learning snapshots
+
+
+![Snake Q-Learning](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/qlearning_main.png?raw=true "Snake Q-Learning")
+![Snake-Mongoose Snake Q-Learning](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/qlearning_snake.png?raw=true "Snake-Mongoose Snake Q-Learning")
+![Snake-Mongoose Mongoose Q-Learning](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/qlearning_mongoose.png?raw=true "Snake-Mongoose Mongoose Q-Learning")
+![Snake-1 Q-Learning](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/qlearning_snake1.png?raw=true "Snake-1 Q-Learning")
+![Snake-2 Q-Learning](https://github.com/Yashprime1/RL--Snake/blob/main/RL-snake/qlearning_snake2.png?raw=true "Snake-2 Q-Learning")
+
