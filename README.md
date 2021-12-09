@@ -27,6 +27,4 @@ This project includes 3 different variations of the traditional snake game which
    \ `.           '.    /      |    \        '---'/
     \  '.           `-./        \    '.          /
      '.  `'.            `-._     '.__  '-._____.'--'''''--.
-       '-.  `'--._          `.__     `';----`              \
-          `-.     `-.          `."'```                     ;
-             `'-..,_ `-.         `'-.                     /
+ 
